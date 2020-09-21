@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I am Sriram Reddy. My main interest lies in the research field of AI. I am fond of learning new technologies.
 
 - 🔭 I’m currently working on Machine Learning Kaggle Competitions.
 - 🌱 I’m currently learning Reinforcment Learning
