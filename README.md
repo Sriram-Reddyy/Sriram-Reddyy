@@ -6,10 +6,11 @@ Skills :
 - Libraries and Frameworks: React.JS, NodeJS, ExpressJS, Flask, Scikit-Learn, and Tensorflow
 - Databases and tools: MongoDB, Relational Database (MySQL), Docker, Git, and Github
 - AI: Statistics, Data Pre-Processing and Analysis, Machine Learning, Deep Learning and Computer Vision
-Achievemnts :
-Finished in top 10% in Melanoma Classification challenge on Kaggle
-– Winner of 5 weekly coding competitions in college.
-– Stood 1st in coding competition (Code Auction) organized by the Recurse Club of KMIT
-– Finished in top 5% in Data Science for Engineers.
-– Finiehed 3rd in Ideathon hackathon where we had developed Vision System for Humanoid robot.
 
+ AZ 
+Achievements:
+Finished in the top 10% in Melanoma Classification challenge on Kaggle.
+Winner of 5 weekly coding competitions in college.
+Stood 1st in a coding competition (Code Auction) organized by the Recurse Club of KMIT.
+Finished in the top 5% in Data Science for Engineers.
+Finished 3rd in an Ideathon hackathon where we developed a Vision System for a Humanoid robot.
