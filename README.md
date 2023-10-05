@@ -1,11 +1,15 @@
-### Hi there 👋
+### Welecome to my world of Madness(Multiverse).
+Myself Sri Ram Anumandla, current Grad student at Florida State University, previously worked at ServiceNow where we had worked with Microsoft, Concur in developing Integrations across platforms to improve cross-platform functionality and Improve overall business. The Products include "Employee Center Integration in Teams", "SerivceNow Viva Cards in Sharepoint", "Concur Approvals with ServiceNow".
 
-I am Sriram Reddy. My main interest lies in the research field of AI. I am fond of learning new technologies.
+Skills : 
+- Languages: C/C++, Java, Python, HTML, CSS, and Javascript
+- Libraries and Frameworks: React.JS, NodeJS, ExpressJS, Flask, Scikit-Learn, and Tensorflow
+- Databases and tools: MongoDB, Relational Database (MySQL), Docker, Git, and Github
+- AI: Statistics, Data Pre-Processing and Analysis, Machine Learning, Deep Learning and Computer Vision
+Achievements
+– Finished in top 10% in Melanoma Classification challenge on Kaggle
+– Winner of 5 weekly coding competitions in college.
+– Stood 1st in coding competition (Code Auction) organized by the Recurse Club of KMIT
+– Finished in top 5% in Data Science for Engineers.
+– Finiehed 3rd in Ideathon hackathon where we had developed Vision System for Humanoid robot.
 
-- 🔭 I’m currently working on Machine Learning Kaggle Competitions.
-- 🌱 I’m currently learning Reinforcment Learning
-- 👯 I’m looking to collaborate on AI and Cloud Computing projects.
-- 🤔 I’m looking for help with Android Development.
-- 💬 Ask me about OpenCV,Tensorflow,Keras
-- 📫 How to reach me: my mail id roarersri@gmail.com
-- ⚡ Fun fact: I am Groot!
