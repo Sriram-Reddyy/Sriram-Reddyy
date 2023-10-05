@@ -7,7 +7,6 @@ Skills :
 - Databases and tools: MongoDB, Relational Database (MySQL), Docker, Git, and Github
 - AI: Statistics, Data Pre-Processing and Analysis, Machine Learning, Deep Learning and Computer Vision
 
- AZ 
 Achievements:
 Finished in the top 10% in Melanoma Classification challenge on Kaggle.
 Winner of 5 weekly coding competitions in college.
