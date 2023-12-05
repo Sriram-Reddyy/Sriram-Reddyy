@@ -18,4 +18,4 @@
   - CGPA: 4
 ## Achievements
 - Top 5% in "Data Science For Engineers" in NPTEL.
-- Top 3 in the Ideathon hackathon, Machine Learning domain.
+- Top 3 in the Ideathon hackathon in the Machine Learning domain.
