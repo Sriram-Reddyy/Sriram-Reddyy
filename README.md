@@ -5,10 +5,10 @@
 - [LinkedIn](#)
 
 ## Technical Skills
-- **Languages:** C/C++, Java, Python, R, HTML, CSS, JavaScript
-- **Libraries/Frameworks:** React, Node.js, Flask, Pandas, Matplotlib, Scikit-Learn, NLTK, HuggingFace, Tensorflow
-- **Databases/Tools:** MongoDB, MySQL, Git, Kafka, PySpark, Athena, AWS, S3, Bitbucket
-- **AI:** Data Analysis, Feature Engineering, ML, DL, NLP, Computer Vision
+- **Languages:** C/C++, Java, Python, R, HTML, CSS and JavaScript
+- **Libraries/Frameworks:** React, Node.js, Express, Spring Boot, Redis, Flask, Pandas, Matplotlib, Scikit-Learn, NLTK, HuggingFace, Tensorflow
+- **Databases/Tools:** MongoDB, MySQL, Docker, Git, Kafka, PySpark, Athena, AWS, S3, Bitbucket
+- **AI:** Data Analysis, Feature Engineering, Machine Learning, Deep Learning, Natural Language Processing and Computer Vision
 
 ## Education
 - **Florida State University** 
