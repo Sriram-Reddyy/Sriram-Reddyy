@@ -3,10 +3,11 @@
 - Phone: +1(850) 459-2481 
 - [GitHub Profile](#) 
 - [LinkedIn](#)
+- [LeetCode Profile](https://leetcode.com/sriram0700/)
 
 ## Technical Skills
 - **Languages:** C/C++, Java, Python, R, HTML, CSS and JavaScript
-- **Libraries/Frameworks:** React, Node.js, Express, Spring Boot, Redis, Flask, Pandas, Matplotlib, Scikit-Learn, NLTK, HuggingFace, Tensorflow
+- **Libraries/Frameworks:** React, Node.js, Express, Spring Boot, Redis, Flask, Pandas, Matplotlib, Scikit-Learn, NLTK, HuggingFace and Tensorflow
 - **Databases/Tools:** MongoDB, MySQL, Docker, Git, Kafka, PySpark, Athena, AWS, S3, Bitbucket
 - **AI:** Data Analysis, Feature Engineering, Machine Learning, Deep Learning, Natural Language Processing and Computer Vision
 
