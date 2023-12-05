@@ -1,15 +1,20 @@
-### Hey there...,
-Myself Sri Ram Anumandla, current Grad student at Florida State University, previously worked at ServiceNow where we had worked with Microsoft, Concur in developing Integrations across platforms to improve cross-platform functionality and Improve overall business. The Products include "Employee Center Integration in Teams", "SerivceNow Viva Cards in Sharepoint", "Concur Approvals with ServiceNow".
+# Sri Ram Reddy Anumandla
+- Email: anumandlasriramreddy0701@gmail.com 
+- Phone: +1(850) 459-2481 
+- [GitHub Profile](#) 
+- [LinkedIn](#)
 
-Skills : 
-- Languages: C/C++, Java, Python, HTML, CSS, and Javascript
-- Libraries and Frameworks: React.JS, NodeJS, ExpressJS, Flask, Scikit-Learn, and Tensorflow
-- Databases and tools: MongoDB, Relational Database (MySQL), Docker, Git, and Github
-- AI: Statistics, Data Pre-Processing and Analysis, Machine Learning, Deep Learning and Computer Vision
+## Technical Skills
+- **Languages:** C/C++, Java, Python, R, HTML, CSS, JavaScript
+- **Libraries/Frameworks:** React, Node.js, Flask, Pandas, Matplotlib, Scikit-Learn, NLTK, HuggingFace, Tensorflow
+- **Databases/Tools:** MongoDB, MySQL, Git, Kafka, PySpark, Athena, AWS, S3, Bitbucket
+- **AI:** Data Analysis, Feature Engineering, ML, DL, NLP, Computer Vision
 
-Achievements:
-- 
-- Winner of 5 weekly coding competitions in college.
-- Stood 1st in a coding competition (Code Auction) organized by the Recurse Club of KMIT.
-- Finished in the top 5% in Data Science for Engineers.
-- Finished 3rd in an Ideathon hackathon where we developed a Vision System for a Humanoid robot.
+## Education
+- **Florida State University** 
+  - *Aug 2023 - May 2025*
+  - Masters in Interdisciplinary Data Science (Computer Science)
+  - CGPA: 4
+## Achievements
+- Top 5% in "Data Science For Engineers" in NPTEL.
+- Top 3 in the Ideathon hackathon, Machine Learning domain.
